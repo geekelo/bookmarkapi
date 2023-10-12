@@ -4,8 +4,6 @@
   <img src="https://dl.dropboxusercontent.com/s/110axfscx8e9q3q/Screenshot%202023-04-27%20024351.png" alt="logo" width=""  height="auto" />
   <br/>
 
-  <h3><b>Rails Blog App</b></h3>
-
 </div>
 
 <!-- TABLE OF CONTENTS -->
