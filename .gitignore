@@ -31,3 +31,5 @@
 
 # Ignore master key for decrypting credentials and more.
 /config/master.key
+/spec/rails_helper.rb
+/spec/spec_helper.rb
